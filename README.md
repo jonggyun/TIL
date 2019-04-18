@@ -14,4 +14,6 @@
 
 # AWS
 
-1.  [AWS 클라우드 아키텍쳐 (AWS SUMMUT 2019 정리)](https://github.com/jonggyun/TIL/blob/master/aws/01-aws-architecture.md)
+1.  [AWS 클라우드 아키텍쳐 (AWS SUMMIT 2019 정리)](https://github.com/jonggyun/TIL/blob/master/aws/01-aws-architecture.md)
+
+2) [AWS에서 제공하는 데이터베이스 (AWS SUMMIT 2019 정리)](https://github.com/jonggyun/TIL/blob/master/aws/02-database.md)
