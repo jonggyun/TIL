@@ -72,7 +72,7 @@ AWS에는 아래와 같은 유형의 [Elastic Load Balancing](https://docs.aws.a
 
 ---
 
-VPC(Virtual Private Cloud) 서비스
+VPC(Virtual Private Cloud)
 
 가상 네트워크 서비스를 뜻하며, 여러개의 VPC를 만들어서 사용할 수 있다. 서로 통신하는 대역끼리는 ip가 다르면 안된다. 여러개의 VPC가 통신하기 위해서는 [라우팅 테이블](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/VPC_Route_Tables.html)이 필요하다. 하나의 subnet은 하나의 VPC를 보유한다.
 
