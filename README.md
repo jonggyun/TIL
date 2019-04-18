@@ -6,8 +6,12 @@
 
 > 규칙
 
-* 언어 등 명확하게 구분되는 내용은 폴더로 생성.
+- 언어 등 명확하게 구분되는 내용은 폴더로 생성.
 
-* 1 Depth로 구성
+- 1 Depth로 구성
 
-* README.md에 링크 생성
+- README.md에 링크 생성
+
+# AWS
+
+1.  [AWS 클라우드 아키텍쳐 (AWS SUMMUT 2019 정리)](https://github.com/jonggyun/TIL/blob/master/aws/01-aws-architecture.md)
