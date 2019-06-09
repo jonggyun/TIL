@@ -22,6 +22,6 @@
 
 # Regex
 
-1. [Character Set](https://github.com/jonggyun/TIL/blob/master/regex/01-characterSet.md)
+1. [Character Set](https://github.com/jonggyun/TIL/blob/master/Regex/01-characterSet.md)
 
-2. [Anchors](https://github.com/jonggyun/TIL/blob/master/regex/02-anchors.md)
+2. [Anchors](https://github.com/jonggyun/TIL/blob/master/Regex/02-anchors.md)
