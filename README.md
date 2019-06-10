@@ -12,6 +12,10 @@
 
 - README.md에 링크 생성
 
+# Algorithm
+
+1. [Bubble Sort](https://github.com/jonggyun/TIL/blob/master/Algorithm/01.bubble-sort.md)
+
 # AWS
 
 1.  [AWS 클라우드 아키텍쳐 (AWS SUMMIT 2019 정리)](https://github.com/jonggyun/TIL/blob/master/aws/01-aws-architecture.md)
